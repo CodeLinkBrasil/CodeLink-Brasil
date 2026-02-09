@@ -1463,6 +1463,12 @@ body {
     object-fit: cover;
 }
 
+.project-screenshot--contain {
+    object-fit: contain;
+    object-position: center;
+    background: #ffffff;
+}
+
 /* WhatsApp Float */
 .whatsapp-float {
     position: fixed;
